@@ -40,3 +40,12 @@ a:link {
   background-color: rgb(37, 22, 51);
   margin-left: clamp(1%, 20%, 60%)
 }
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
